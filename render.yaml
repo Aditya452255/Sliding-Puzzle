@@ -1,0 +1,13 @@
+services:
+  - type: static_site
+    name: sliding-puzzle
+    repo: https://github.com/Aditya452255/Sliding-Puzzle.git
+    branch: main
+    plan: free
+    buildCommand: npm install --legacy-peer-deps && npm run build
+    publishPath: dist
+    envVars:
+      - key: NPM_CONFIG_LEGACY_PEER_DEPS
+        value: "true"
+      - key: NODE_VERSION
+        value: "16.20.2"
