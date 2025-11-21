@@ -12,6 +12,18 @@
   "engines": {
     "node": "16.x"
   },
+  "targets": {
+    "default": {
+      "context": "browser",
+      "includeNodeModules": {
+        "react": true,
+        "react-dom": true,
+        "react-router-dom": true,
+        "styled-components": true,
+        "@babel/runtime": true
+      }
+    }
+  },
   "dependencies": {
     "react": "^16.7.0-alpha.2",
     "react-dom": "^16.7.0-alpha.2",

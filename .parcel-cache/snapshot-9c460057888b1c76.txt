@@ -1,4 +1,4 @@
-9122
+9117
 120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\promise\src\node-extensions.js134081460761348759 0
 121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\regions\LB.js134081462147354345 0
 111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\msgpackr\dist\test.js134081462118209226 0
@@ -31,27 +31,18 @@
 135C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\$.buffer.js134081460828424123 0
 127C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\resolve\test\resolver\nested_symlinks134081470116159560 1
 121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\regions\SZ.js134081462149860478 0
-87C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\.gitignore134081454105739665 0
+87C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\.gitignore134082410721464545 0
 115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\min-document\package.json134081460663930889 0
 104C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\over.js134081470141348200 0
 124C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\source-map-js\lib\source-node.d.ts134081470117559766 0
+118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\styled-components\primitives134081460771249192 1
+136C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\electron-to-chromium\full-chromium-versions.js134081462183684187 0
+89C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules134082407650393991 1
 163C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\styled-components\primitives\dist\styled-components-primitives.cjs.js.map134081460771829290 0
+83C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\.nvmrc134082395036248399 0
 133C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\tabindex-attr.js134081462149860478 0
 123C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\get.js134081470132347392 0
 88C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\.prettierrc134081454105822065 0
-118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\styled-components\primitives134081460771249192 1
-136C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\electron-to-chromium\full-chromium-versions.js134081462183684187 0
-89C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules134081476386554816 1
-138C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\resolve\test\resolver\symlinked\_\symlink_target134081470106093569 1
-132C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\parcel\node_modules\color-convert\route.js134081462106296805 0
-121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\regions\FI.js134081462145217934 0
-112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\history\es\DOMUtils.js134081460744151549 0
-105C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\isSet.js134081470140092414 0
-98C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\dom-walk134081460706717618 1
-121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\regions\IT.js134081462147041108 0
-106C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\term-size\vendor134081462110830470 1
-129C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\src\assets\styles\fonts\ClearSans-Light-webfont.woff134081454111601835 0
-119C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\node-fetch\lib\fetch-error.js134081460730783295 0
 138C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\core\lib\config\validation\plugins.js.map134081470128348734 0
 136C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\runtime\helpers\esm\isNativeFunction.js134081460777142398 0
 146C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\library\modules\$.set-proto.js134081460804227935 0
@@ -81,14 +72,14 @@
 111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\minimist\package.json134081470118738116 0
 110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\packager-svg134081462157920141 1
 138C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\core-win32-x64-msvc\swc.win32-x64-msvc.node134081462230052918 0
-81C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist134082383225195079 1
+81C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist134082411501180995 1
 110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\trimEnd.js134081470144259530 0
 127C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\resolve\test\resolver\without_basedir134081470129379794 1
 112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\trimChars.js134081470144223560 0
 123C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\traverse\lib\path\index.js134081470120075682 0
 147C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\resolve\test\resolver\symlinked\_\symlink_target\.gitkeep134081470106093569 0
 116C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_arrayAggregator.js134081470106179365 0
-87C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\index.html134082379778783009 0
+87C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\index.html134082406473786147 0
 111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_stringSize.js134081470135497124 0
 111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\minimist\test\long.js134081470111900512 0
 164C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\parcel_sourcemap_wasm.js134081462128594071 0
@@ -123,16 +114,13 @@
 144C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\core\test\fixtures\custom-targets\package.json134081462194436403 0
 111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\resolve\lib\core.json134081470130876835 0
 110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\packager-raw134081462164460603 1
-94C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\package-lock.json134081476388528737 0
+94C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\package-lock.json134082407651570790 0
 105C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\value-equal\umd134081460717621670 1
 99C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@lezer\lr134081462123337104 1
 119C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\resolve-pathname\cjs\index.js134081460692529411 0
-141C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c134081462119811849 0
-128C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\src\assets\styles\fonts\ClearSans-Light-webfont.svg134081454111541730 0
-125C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\react-router-dom\es\StaticRouter.js134081460760784181 0
 120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\scripts\errors.js134081462136270772 0
 120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\shallowequal\index.original.js134081460688835516 0
-89C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\package.json134082365391776552 0
+89C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\package.json134082409974812326 0
 140C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\library\fn\math\acosh.js134081460792318955 0
 121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\utils\test\input\config134081462188312526 1
 120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\reselect\lib\defaultMemoize.js134081470113240938 0
@@ -150,6 +138,7 @@
 130C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\types\lib\builders\productions.js134081470122293516 0
 144C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\$.object-to-array.js134081460822495548 0
 95C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\src\utils\color.js134082379699393710 0
+112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\Sliding puzzle.f26a78d2.js.map134082410160608218 0
 118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\resolve\test\dotdot\index.js134081470124384872 0
 117C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\transformer-css\lib134081462158593581 1
 97C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\find-up134081470105939931 1
@@ -175,6 +164,18 @@
 146C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag134081462116839776 0
 141C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\node-resolver-core\node_modules\.bin\semver134081462272022883 0
 86C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\README.md134081454106076308 0
+119C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\type-fest\source\entries.d.ts134081462109272214 0
+119C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\ua-parser-js\src\ua-parser.js134081460732585152 0
+137C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\styled-components\dist\styled-components.min.js134081460764502426 0
+132C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\core\test\PublicDependency.test.js134081462192974757 0
+125C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\type-fest\source\tsconfig-json.d.ts134081462116819748 0
+137C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\channel-messaging.js134081462125472277 0
+88C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\render.yaml134082398315435972 0
+135C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\css-text-indent.js134081462139341327 0
+145C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\es6.date.to-string.js134081460817123094 0
+115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\safer-buffer\dangerous.js134081460670220567 0
+144C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\fn\number\is-safe-integer.js134081460785232895 0
+98C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\chokidar134081470119368943 1
 115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\resolve-pathname\index.js134081460675988946 0
 80C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\src134081454113668703 1
 108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\function-bind\test134081470108690766 1
@@ -203,7 +204,7 @@
 109C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\propOr.js134081470141656092 0
 101C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\asap\raw.js134081460704664047 0
 103C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\utility-types134081462112520582 1
-88C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\src\App.jsx134081454110760846 0
+88C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\src\App.jsx134082401366838236 0
 111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\picocolors\types.d.ts134081462106050239 0
 109C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\spread.js134081470142460555 0
 109C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\is-core-module\test134081470106569361 1
@@ -446,6 +447,19 @@
 141C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\core\node_modules\semver\ranges\simplify.js134081462117704978 0
 117C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lightningcss-win32-x64-msvc134081462100776744 1
 128C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\src\assets\styles\fonts\ClearSans-Light-webfont.eot134081454111424132 0
+141C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c134081462119811849 0
+128C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\src\assets\styles\fonts\ClearSans-Light-webfont.svg134081454111541730 0
+125C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\react-router-dom\es\StaticRouter.js134081460760784181 0
+138C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\resolve\test\resolver\symlinked\_\symlink_target134081470106093569 1
+132C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\parcel\node_modules\color-convert\route.js134081462106296805 0
+121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\regions\FI.js134081462145217934 0
+112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\history\es\DOMUtils.js134081460744151549 0
+105C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\isSet.js134081470140092414 0
+98C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\dom-walk134081460706717618 1
+121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\regions\IT.js134081462147041108 0
+106C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\term-size\vendor134081462110830470 1
+129C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\src\assets\styles\fonts\ClearSans-Light-webfont.woff134081454111601835 0
+119C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\node-fetch\lib\fetch-error.js134081460730783295 0
 131C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\parcel\node_modules\ansi-styles\readme.md134081462100956889 0
 118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\transformer-sass\lib134081476276469602 1
 130C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\src\assets\styles\fonts\ClearSans-Regular-webfont.eot134081454111661927 0
@@ -467,7 +481,7 @@
 127C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\tiny-warning\dist\tiny-warning.esm.js134081460699964321 0
 150C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\node-resolver-core\node_modules\semver\bin\semver.js134081462117470661 0
 105C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\react\README.md134081460690981865 0
-110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\src\assets\styles\fonts\font.scss134081454111957264 0
+110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\src\assets\styles\fonts\font.scss134082402961522107 0
 103C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\msgpackr\dist134081462123059431 1
 113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\msgpackr\test-worker.js134081462117526911 0
 111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\isArrayLike.js134081470139136139 0
@@ -501,7 +515,7 @@
 135C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\resolve\test\resolver\incorrect_main\index.js134081470127500380 0
 141C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\types\lib\validators\isValidES3Identifier.js134081470134645849 0
 121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\public\images\icons\android-icon-192x192.png134081454109023799 0
-108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\.package-lock.json134081476389478475 0
+108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\.package-lock.json134082407652055435 0
 137C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@jridgewell\sourcemap-codec\types\strings.d.mts134081470119232736 0
 119C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\public\images\icons\android-icon-36x36.png134081454109064093 0
 107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\unionBy.js134081470144362162 0
@@ -683,10 +697,11 @@
 96C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel134081474066192618 1
 109C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\yallist\iterator.js134081470104124945 0
 109C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\repeat.js134081470141892658 0
+113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-114x114.22291b92.png134082411500618241 0
 98C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@emotion134081460643252802 1
 145C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\types\lib\retrievers\getAssignmentIdentifiers.js134081470133465798 0
 105C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\pkg-up\index.js134081470105687447 0
-95C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@lmdb134081476387085952 1
+95C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@lmdb134082407650701316 1
 127C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\tiny-warning\dist\tiny-warning.cjs.js134081460681820439 0
 99C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@mischnic134081462089436773 1
 122C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\ordered-binary\.idea\modules.xml134081462115296828 0
@@ -697,13 +712,13 @@
 102C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\setimmediate134081460674297788 1
 133C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\parcel\node_modules\color-convert\README.md134081462105771934 0
 117C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\lib\ErrorUtils.js.flow134081460782011416 0
-107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@msgpackr-extract134081476387037600 1
+107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@msgpackr-extract134082407650665818 1
 134C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\resolve-pathname\umd\resolve-pathname.min.js134081460707981568 0
 111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\react-router\Route.js134081460727937312 0
 145C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\node-resolver-core\node_modules\semver\internal134081462116819748 1
 98C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@nodelib134081462379007133 1
 139C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\core\lib\config\resolve-targets-browser.js134081470126919753 0
-97C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel134081476387002474 1
+97C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel134082407650618111 1
 111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_baseSortBy.js134081470131446601 0
 138C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\speech-recognition.js134081462149615471 0
 107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\stylis-rule-sheet134081460674048581 1
@@ -715,7 +730,7 @@
 131C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\tiny-invariant\dist\tiny-invariant.min.js134081460710671133 0
 139C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\fn\number\is-integer.js134081460784626378 0
 107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_baseGt.js134081470126934007 0
-94C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc134081476386666564 1
+94C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc134082407650487993 1
 96C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@types134081462303861876 1
 137C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\classNameTDZError.js134081470128612167 0
 101C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\memoize-one134081460718495076 1
@@ -765,15 +780,6 @@
 137C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@jridgewell\trace-mapping\types\by-source.d.mts134081470122450939 0
 132C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lmdb\dependencies\lz4\lib\liblz4-dll.rc.in134081462131443519 0
 129C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\core-js-compat\modules-by-versions.json134081470118850749 0
-119C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\type-fest\source\entries.d.ts134081462109272214 0
-119C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\ua-parser-js\src\ua-parser.js134081460732585152 0
-137C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\styled-components\dist\styled-components.min.js134081460764502426 0
-132C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\core\test\PublicDependency.test.js134081462192974757 0
-125C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\type-fest\source\tsconfig-json.d.ts134081462116819748 0
-137C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\channel-messaging.js134081462125472277 0
-115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\safer-buffer\dangerous.js134081460670220567 0
-144C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\fn\number\is-safe-integer.js134081460785232895 0
-98C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\chokidar134081470119368943 1
 131C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\cjs\_non_iterable_spread.cjs134081462119938431 0
 128C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\traverse\lib\path\evaluation.js134081470118863446 0
 143C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\library\fn\array\entries.js134081460792196676 0
@@ -818,8 +824,8 @@
 123C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\wav.js134081462151319490 0
 105C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\.bin\semver.cmd134081470145139721 0
 115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\resolve\test\nonstring.js134081470129942966 0
-110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\shallowequal\LICENSE134081460697997662 0
 110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\promise\lib\index.js134081460749040391 0
+110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\shallowequal\LICENSE134081460697997662 0
 95C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\debug134081470108713237 1
 107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\drop.js134081470137345378 0
 127C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\source-map\dist\utils.js.flow134081462127256061 0
@@ -1050,7 +1056,6 @@
 110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\flatMap.js134081470138007167 0
 125C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\types\lib\clone\clone.js.map134081470125747523 0
 117C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_createCompounder.js134081470133372778 0
-107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-512x512.e3a8497e.png134081454108649799 0
 108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\minimist\README.md134081470119298814 0
 122C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\node-gyp-build-optional-packages134081462111441934 1
 117C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\react-router-dom\NavLink.js134081460727990203 0
@@ -1108,7 +1113,6 @@
 147C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\$.collection-to-json.js134081460828335003 0
 141C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@jridgewell\resolve-uri\dist\types\resolve-uri.d.ts134081470110023559 0
 115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\sass\types\value\map.d.ts134081470132319213 0
-117C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Bold-webfont.6a6f5f3f.eot134081454106884831 0
 102C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\whatwg-fetch134081460700685377 1
 99C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\debug\src134081470107414599 1
 141C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\codeframe\node_modules\color-name\README.md134081462100911367 0
@@ -1129,9 +1133,6 @@
 134C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\fn\array\splice.js134081460783314909 0
 114C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\tiny-invariant\README.md134081460670233111 0
 124C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\type-fest\ts41\delimiter-case.d.ts134081462108761818 0
-138C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lightningcss\node_modules\detect-libc\index.d.ts134081462106625208 0
-111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-60x60.bdd2ae24.png134082383217767497 0
-112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_stackDelete.js134081470135440609 0
 129C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\src\_non_iterable_rest.mjs134081462146484430 0
 96C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\pkg-up134081470106533683 1
 110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\postcss-value-parser134081460683887532 1
@@ -1243,7 +1244,6 @@
 95C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\tslib134081462109908561 1
 110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_createSet.js134081470133644507 0
 105C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\jsesc\README.md134081470108238714 0
-119C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Light-webfont.fb98e0ac.woff134081454107475594 0
 99C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\type-fest134081462111441934 1
 135C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\node-gyp-build-optional-packages\package.json134081462111076168 0
 140C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\es6.math.cbrt.js134081460817498950 0
@@ -1294,7 +1294,6 @@
 104C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\wrappy\LICENSE134081460676867582 0
 156C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\es6.object.prevent-extensions.js134081460821691604 0
 114C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\lib\DataTransfer.js134081460777051446 0
-111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\manifest.1a627359.webmanifest134081454108775210 0
 120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\sortedLastIndexOf.js134081470142337745 0
 106C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\invoke.js134081470139007360 0
 142C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\getelementsbyclassname.js134081462145878214 0
@@ -1326,7 +1325,6 @@
 121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\optimizer-image\LICENSE134081462170925958 0
 119C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\react-hot-loader\package.json134081460664253558 0
 109C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\weak-lru-cache\dist134081462107541410 1
-111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-57x57.f6e87c41.png134082383217767497 0
 112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\resolve\lib\is-core.js134081470128233173 0
 115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\weak-lru-cache\index.d.ts134081462112206826 0
 149C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\package-manager\node_modules\semver\functions\gt.js134081462109821128 0
@@ -1564,10 +1562,6 @@
 115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\resolve\test\resolver\baz134081470131154794 1
 122C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\lib\__mocks__\ErrorUtils.js134081460781628174 0
 121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\type-fest\ts41\pascal-case.d.ts134081462115038988 0
-108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\overArgs.js134081470141358834 0
-108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\types\LICENSE134081462106469165 0
-110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_baseUnary.js134081470131939944 0
-132C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\source-map-js\lib\source-map-consumer.d.ts134081470116182022 0
 127C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\types\lib\utils\inherit.js.map134081470133706950 0
 140C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\library\modules\$.uid.js134081460800026561 0
 117C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_baseIsTypedArray.js134081470129533160 0
@@ -1639,7 +1633,7 @@
 115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\flattenDepth.js134081470138058168 0
 135C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\fn\function\part.js134081460787358249 0
 125C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\type-fest\source\promise-value.d.ts134081462115374298 0
-102C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\manifest.webmanifest134082383213270018 0
+102C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\manifest.webmanifest134082411499897402 0
 141C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\reselect\src\versionedTypes\ts46-mergeParameters.ts134081470122375016 0
 127C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\core\lib\transform-file.js.map134081470131006863 0
 118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\resolver-default\lib134081462158593581 1
@@ -1689,7 +1683,6 @@
 110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\function-bind\.nycrc134081470105732179 0
 116C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\tslib\modules\package.json134081462106006497 0
 115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\watcher\src\macos134081462115362594 1
-113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-120x120.c7598235.png134081454108098811 0
 134C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\parcel\node_modules\commander\lib\command.js134081462188312526 0
 128C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\react-dom\umd\react-dom.development.js134081460772001879 0
 134C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\watcher\src\macos\FSEventsBackend.hh134081462115400119 0
@@ -1906,6 +1899,7 @@
 143C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\library\fn\string\repeat.js134081460796241072 0
 110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\promise\src\index.js134081460760784181 0
 144C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\library\fn\symbol\species.js134081460797079719 0
+105C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-96x96.0119a08e.png134082411500618241 0
 132C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\toSetter.js.map134081470134978484 0
 112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_baseIsEqual.js134081470128233173 0
 144C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\transformer-babel\node_modules\.bin\semver.cmd134081462272022883 0
@@ -1924,6 +1918,10 @@
 166C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional134081462272094877 0
 116C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\lib\concatAllArray.js134081460764650162 0
 117C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\source-map-js\lib\base64.js134081470106144928 0
+108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\overArgs.js134081470141358834 0
+108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\types\LICENSE134081462106469165 0
+110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_baseUnary.js134081470131939944 0
+132C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\source-map-js\lib\source-map-consumer.d.ts134081470116182022 0
 131C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\cjs\_array_without_holes.cjs134081462105771934 0
 130C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\source-map-js\lib\source-map-consumer.js134081470110791449 0
 120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\sass\types\legacy\options.d.ts134081470132419865 0
@@ -2032,7 +2030,6 @@
 126C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\tls1-3.js134081462150379533 0
 114C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\resolve\test\symlinks.js134081470130593907 0
 138C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\scheduler\cjs\scheduler-tracing.profiling.min.js134081460725017890 0
-121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\template\lib\populate.js134081470115722912 0
 109C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_baseTrim.js134081470131874099 0
 132C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\fn\math\asinh.js134081460784295848 0
 139C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\source-map\parcel_sourcemap_node\build.rs134081462138126276 0
@@ -2333,9 +2330,6 @@
 122C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\resolve\test\pathfilter\deep_ref134081470129051326 1
 118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\traverse\lib\index.js134081470111027049 0
 114C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\resolve\test\node_path\x134081470125973650 1
-103C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\min.js134081470140975076 0
-112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\promise\lib\finally.js134081460747848550 0
-112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_LazyWrapper.js134081470134823590 0
 114C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\isEqualWith.js134081470139272491 0
 118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\resolve\test\node_path\y\ccc134081470126633577 1
 143C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\library\modules\core.log.js134081460799656397 0
@@ -2351,6 +2345,7 @@
 139C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\css-overflow-anchor.js134081462137076290 0
 157C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\react-dom\cjs\react-dom-unstable-native-dependencies.development.js134081460746119927 0
 126C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\resolve\test\module_dir\zmodules\bbb134081470131026906 1
+113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-152x152.ae940226.png134082411500618241 0
 153C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helper-define-polyfill-provider\lib\node\dependencies.js134081470116389391 0
 128C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\esm\_iterable_to_array.js134081462132099026 0
 121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\react-router\es\StaticRouter.js134081460750128187 0
@@ -2435,7 +2430,6 @@
 119C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\reselect\dist\reselect.min.js134081470116606603 0
 108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\round.js134081470142050837 0
 133C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\workers\lib\threads\ThreadsChild.js134081462128452824 0
-105C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-96x96.f16e8aa9.png134081454108726859 0
 119C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\regenerator-runtime\README.md134081460676615272 0
 132C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\web\immediate.js134081460830360477 0
 111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\.bin\browserslist.cmd134081462272077697 0
@@ -2487,7 +2481,6 @@
 109C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lru-cache\README.md134081470106167099 0
 142C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\css-media-range-syntax.js134081462136270772 0
 118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\node-releases\data\processed134081462098286662 1
-108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\Sliding puzzle.e02fbd41.js134082383225073269 0
 118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\react-router-dom\Redirect.js134081460733928943 0
 141C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\library\modules\$.html.js134081460807125587 0
 115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\react-router-dom\Route.js134081460734816864 0
@@ -2512,6 +2505,7 @@
 123C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\react-router-dom\es\HashRouter.js134081460748370991 0
 108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\concat-map\LICENSE134081460670602900 0
 142C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\package-manager\node_modules\.bin\semver.ps1134081462272022883 0
+120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Regular-webfont.17f0a392.eot134082410156533470 0
 106C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\concat.js134081470136682532 0
 145C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\transformer-babel\node_modules\semver\functions134081462118253210 1
 113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\path-to-regexp\index.js134081460675988946 0
@@ -2570,6 +2564,7 @@
 119C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\path-is-absolute\package.json134081460664212049 0
 130C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\events\test\ValueEmitter.test.js134081462192317701 0
 112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\minimist\test\proto.js134081470116043700 0
+118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Light-webfont.41fd09d2.eot134082410156396525 0
 112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\react-router\Router.js134081460731311470 0
 145C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\mdn-text-decoration-style.js134081462147771501 0
 151C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\node-resolver-core\node_modules\semver\internal\re.js134081462116839776 0
@@ -2626,6 +2621,7 @@
 160C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\es6.object.get-own-property-names.js134081460821506380 0
 135C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\types\lib\builders\validateNode.js.map134081470125300013 0
 123C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\react-lifecycles-compat\README.md134081460717634959 0
+107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-192x192.fd371155.png134082410156830979 0
 121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\history\createBrowserHistory.js134081460681845498 0
 133C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@jridgewell\sourcemap-codec\types\vlq.d.mts134081470119318842 0
 108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\isNaN.js134081470139815005 0
@@ -2751,6 +2747,9 @@
 106C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\reduce.js134081470141838389 0
 140C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\css-display-contents.js134081462132254121 0
 109C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\promise\lib\core.js134081460742982731 0
+103C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\min.js134081470140975076 0
+112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\promise\lib\finally.js134081460747848550 0
+112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_LazyWrapper.js134081470134823590 0
 120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\promise\lib\node-extensions.js134081460750339237 0
 141C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\codeframe\node_modules\chalk\source\util.js134081462101363802 0
 152C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\library\modules\es6.reflect.apply.js134081460804859362 0
@@ -3120,7 +3119,6 @@
 149C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\fn\symbol\is-concat-spreadable.js134081460786668444 0
 131C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\node-gyp-build-optional-packages\index.js134081462110108868 0
 130C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\node-gyp-build-optional-packages\LICENSE134081462107778579 0
-100C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\waves.0ff540f5.gif134081454108835921 0
 136C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\fn\symbol\key-for.js134081460786766526 0
 119C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\cache\src\IDBCache.js134081462143459157 0
 135C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\node-gyp-build-optional-packages\node_modules134081462089822993 1
@@ -3219,6 +3217,7 @@
 106C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\msgpackr\pack.js134081462116778214 0
 114C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\min-document\document.js134081460712809262 0
 131C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\types-internal\src\PackageName.js134081462123859977 0
+113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-120x120.b64b1028.png134082410156830979 0
 115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\msgpackr\rollup.config.js134081462116859811 0
 121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\profiler\lib\types.d.ts134081462129191589 0
 105C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\curry.js134081470136926319 0
@@ -3250,6 +3249,7 @@
 128C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\msgpackr\dist\index-no-eval.min.js.map134081462119408135 0
 134C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\array-includes.js134081462116258089 0
 137C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@jridgewell\remapping\types\remapping.d.mts.map134081470112719165 0
+108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\favicon-32x32.4267d4cc.png134082410156830979 0
 137C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\reporter-dev-server\src\serverErrors.js134081462176001575 0
 135C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\fn\string\repeat.js134081460786011857 0
 116C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\msgpackr\dist\index.js.map134081462120034148 0
@@ -3270,6 +3270,7 @@
 148C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\es6.typed.uint8-array.js134081460827900373 0
 115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js134081460830324546 1
 112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\snakeCase.js134081470142201254 0
+107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-384x384.3c02dcb6.png134082411500631517 0
 105C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\ms\package.json134081470104194687 0
 108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\minimist\.eslintrc134081470103723086 0
 114C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_baseEachRight.js134081470123903691 0
@@ -3376,7 +3377,6 @@
 127C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\lib\ExecutionEnvironment.js.flow134081460786111046 0
 109C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\memoize-one\LICENSE134081460670131242 0
 137C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\traverse\lib\path\inference\index.js.map134081470121898288 0
-105C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-72x72.64199dc3.png134081454108693790 0
 111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\memoize-one\README.md134081460675860169 0
 119C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\es6134081460771310427 1
 114C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\memoize-one\src\index.js134081460724328040 0
@@ -3439,10 +3439,10 @@
 105C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\defer.js134081470137204134 0
 105C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\delay.js134081470137221696 0
 112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\differenceBy.js134081470137232478 0
-114C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\differenceWith.js134081470137296551 0
+138C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\$.microtask.js134081460823437167 0
 121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\.bin\update-browserslist-db.cmd134081462272077697 0
 123C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\electron-to-chromium\package.json134081462184031344 0
-138C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\$.microtask.js134081460823437167 0
+114C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\differenceWith.js134081470137296551 0
 108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\toLength.js134081470143531511 0
 140C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\isNativeFunction.js.map134081470133314379 0
 117C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\cjs\_throw.cjs134081462121801658 0
@@ -3704,7 +3704,6 @@
 104C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\some.js134081470142213498 0
 114C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\reporter-cli\src134081462185563371 1
 115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\sortedLastIndex.js134081470142317508 0
-107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-192x192.bfb226cf.png134082383220032081 0
 133C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\library\fn\set.js134081460788936569 0
 135C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\css-placeholder.js134081462137408100 0
 117C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\sortedLastIndexOf.js134081470142348588 0
@@ -3789,7 +3788,6 @@
 138C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helper-compilation-targets\lib\options.js134081470111186854 0
 130C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\core\node_modules\semver\LICENSE134081462096564222 0
 108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_hashHas.js134081470134194132 0
-113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-180x180.ce6023f9.png134081454108233243 0
 109C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lmdb\src\cursor.cpp134081462127841449 0
 109C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_baseRest.js134081470130953569 0
 106C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lmdb\SECURITY.md134081462133535842 0
@@ -3835,6 +3833,7 @@
 113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_baseAssignIn.js134081470120135655 0
 139C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\source-map\dist\wasm-bindings-web.js.flow134081462127404366 0
 120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_customDefaultsMerge.js134081470133676949 0
+112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\Sliding puzzle.65bd029e.js.map134082411501180995 0
 138C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lightningcss\node_modules\detect-libc\lib\elf.js134081462100704356 0
 146C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\esm\_class_static_private_field_spec_set.js134081462129709040 0
 135C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\src\_tagged_template_literal.mjs134081462146668609 0
@@ -4056,6 +4055,8 @@
 131C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\esm\_ts_dispose_resources.js134081462135091217 0
 152C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\library\modules\$.collection-weak.js134081460810149202 0
 111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_stackClear.js134081470135440609 0
+138C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lightningcss\node_modules\detect-libc\index.d.ts134081462106625208 0
+112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_stackDelete.js134081470135440609 0
 132C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\babel-plugin-polyfill-corejs2\package.json134081470111446264 0
 109C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_stackHas.js134081470135474016 0
 114C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\_stringToArray.js134081470135518356 0
@@ -4170,7 +4171,6 @@
 133C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\babel-plugin-polyfill-corejs2\esm\index.mjs134081470105846077 0
 109C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\deburr.js134081470137111823 0
 140C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\markdown-ansi\node_modules\chalk\readme.md134081462105944339 0
-107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-128x128.99d8c110.png134082383220032081 0
 108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\json5\lib\parse.js134081462106081282 0
 111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\defaults.js134081470137129685 0
 114C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\defaultsAll.js134081470137140141 0
@@ -4326,10 +4326,12 @@
 108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\range.js134081470141773392 0
 111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\isObject.js134081470139990505 0
 132C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\$.ctx.js134081460828183808 0
+113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-120x120.0c9d00a8.png134082411500618241 0
 113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\function-bind\README.md134081470111500337 0
 123C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\core\lib\public\Bundle.js134081462184577168 0
 115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\isObjectLike.js134081470140011535 0
 116C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\isSafeInteger.js134081470140053382 0
+107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-144x144.fa770140.png134082410156830979 0
 113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\escalade\sync\index.mjs134081462106296805 0
 137C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\resolver-default\lib\DefaultResolver.js134081462158605794 0
 108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lodash\fp\isSet.js134081470140063996 0
@@ -4709,6 +4711,7 @@
 142C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\library\fn\array\splice.js134081460792185040 0
 136C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lmdb\dependencies\lz4\lib\dll\example\Makefile134081462116649126 0
 137C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lmdb\dependencies\lz4\lib\dll\example\README.md134081462133416475 0
+111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-60x60.444ffa2b.png134082411500608232 0
 120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\cjs\_defaults.cjs134081462117654147 0
 130C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lmdb\dependencies\lmdb-data-v1\libraries134081462110000497 1
 121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\regions\LV.js134081462147569926 0
@@ -4747,7 +4750,6 @@
 139C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\crypto.c134081462119089844 0
 138C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\LICENSE134081462115296828 0
 136C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb.c134081462122502697 0
-107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-384x384.018deedd.png134082383220238326 0
 141C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.1134081462117489305 0
 132C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\cjs\_ts_dispose_resources.cjs134081462122930499 0
 141C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.1134081462117883221 0
@@ -4825,7 +4827,6 @@
 132C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lightningcss\node\browserslistToTargets.js134081462106670772 0
 136C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\core.dict.js134081460820949560 0
 117C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\package-manager\src134081462184444071 1
-102C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\15Puzzle.d8843999.js134081454106787269 0
 116C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lightningcss\node\flags.js134081462107296752 0
 116C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lightningcss\node\index.js134081462107701771 0
 117C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\lightningcss\node\index.mjs134081462110441604 0
@@ -4918,7 +4919,6 @@
 143C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\es6.regexp.flags.js134081460824205315 0
 121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\regions\ZM.js134081462152187856 0
 142C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\fn\string\unescape-html.js134081460786463806 0
-107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-144x144.357081de.png134081454108536101 0
 110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\iconv-lite\encodings134081460748726900 1
 110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\iconv-lite\README.md134081460688759325 0
 120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\iconv-lite\lib\bom-handling.js134081460750760333 0
@@ -5181,8 +5181,6 @@
 146C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\reporter-cli\node_modules\ansi-styles\index.d.ts134081462103880757 0
 148C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\core.object.is-object.js134081460819493322 0
 145C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\es6.array.iterator.js134081460817015211 0
-135C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\css-text-indent.js134081462139341327 0
-145C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\es6.date.to-string.js134081460817123094 0
 152C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\es6.function.has-instance.js134081460817145539 0
 117C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\graph\lib\BitSet.js134081462138853110 0
 141C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\es6.math.acosh.js134081460817278303 0
@@ -5249,7 +5247,6 @@
 127C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\workers\test\cpuCount.test.js134081462125080621 0
 151C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\es6.string.code-point-at.js134081460826375344 0
 138C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.mjs.map134081470106155900 0
-108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\favicon-16x16.ddf512f0.png134082383217767497 0
 153C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\es6.string.from-code-point.js134081460826510434 0
 143C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\library\fn\object\define.js134081460791212429 0
 137C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\es6.symbol.js134081460827489545 0
@@ -5269,6 +5266,7 @@
 131C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\wasm-bigint.js134081462151115910 0
 134C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\esm\_class_private_field_get.js134081462129191589 0
 132C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\utils\test\input\config\empty.json134081462185708784 0
+111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-76x76.0a283de0.png134082410156830979 0
 145C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\es7.array.includes.js134081460828196288 0
 142C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\modules\es7.map.to-json.js134081460828291573 0
 143C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@jridgewell\trace-mapping\types\flatten-map.d.cts.map134081470116389391 0
@@ -5316,7 +5314,6 @@
 140C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\library\modules\$.cof.js134081460810294063 0
 135C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\cjs\_class_private_field_get.cjs134081462113919517 0
 147C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\library\modules\$.collection.js134081460810109142 0
-111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-76x76.dd21d491.png134081454108381205 0
 148C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\library\modules\$.descriptors.js134081460809661161 0
 138C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\reporter-cli\node_modules\supports-color134081462102613947 1
 122C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\template\lib\parse.js.map134081470114710066 0
@@ -5588,7 +5585,6 @@
 143C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\library\fn\object\values.js134081460791332278 0
 144C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\library\fn\number\epsilon.js134081460794043969 0
 137C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\fn\string\pad-left.js134081460786507743 0
-100C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\waves.f35ad1ad.gif134082383215611952 0
 142C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\library\fn\number\index.js134081460794456536 0
 152C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\transformer-babel\node_modules\semver\functions\cmp.js134081462101384375 0
 146C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\library\fn\number\is-finite.js134081460794256970 0
@@ -5728,7 +5724,7 @@
 145C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\fn\object\set-prototype-of.js134081460777132362 0
 135C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\fn\object\values.js134081460777210478 0
 136C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\fn\number\epsilon.js134081460784488949 0
-112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\Pacifico-Regular.9d8f8d22.woff134082383217632359 0
+112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\Pacifico-Regular.9d8f8d22.woff134082411500631517 0
 137C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\fn\number\iterator.js134081460784827575 0
 145C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\node_modules\core-js\fn\number\max-safe-integer.js134081460784923350 0
 120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\core\lib\Validation.js134081462194177356 0
@@ -5886,7 +5882,7 @@
 120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\lib\UnicodeBidiService.js134081460772245666 0
 139C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\error-overlay\src\utils\getStackFrames.js134081462121705310 0
 117C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\lib\UnicodeCJK.js.flow134081460785953555 0
-121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Regular-webfont.7b84514e.woff134082383215436034 0
+121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Regular-webfont.7b84514e.woff134082411500094207 0
 116C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\lib\UserAgent.js.flow134081460779020399 0
 114C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\lib\UnicodeUtils.js134081460771506619 0
 119C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\fbjs\lib\UnicodeUtilsExtra.js134081460771296072 0
@@ -6148,7 +6144,7 @@
 121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\regions\IE.js134081462146449128 0
 121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\regions\IM.js134081462146502550 0
 118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\types\lib\definitions134081470132135496 1
-118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Bold-webfont.8478f1b0.woff134082383215496164 0
+118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Bold-webfont.8478f1b0.woff134082411500631517 0
 121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\regions\IN.js134081462146581802 0
 121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\regions\IQ.js134081462146979880 0
 121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\regions\IS.js134081462147023802 0
@@ -6364,13 +6360,13 @@
 139C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\css-filter-function.js134081462132694750 0
 131C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\css-filters.js134081462132747416 0
 136C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\css-first-letter.js134081462132798605 0
-112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\Pacifico-Regular.c0c32478.woff134081454107973593 0
 129C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\css-fixed.js134081462133035319 0
 144C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\nullishReceiverError.js.map134081470133606282 0
 137C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\css-focus-visible.js134081462133178311 0
 136C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\css-focus-within.js134081462133331979 0
 136C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\css-font-palette.js134081462133371709 0
 133C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\css-gradients.js134081462133535842 0
+105C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-96x96.77294b2a.png134082410156830979 0
 128C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\css-grid.js134081462134071789 0
 127C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\css-has.js134081462134348362 0
 141C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\css-image-orientation.js134081462135043636 0
@@ -6539,6 +6535,7 @@
 131C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\input-range.js134081462146837425 0
 142C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\runtime\helpers\classPrivateFieldLooseBase.js134081460739517059 0
 133C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\iframe-srcdoc.js134081462146464167 0
+105C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-72x72.3d81e567.png134082410156830979 0
 123C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\ime.js134081462146522658 0
 131C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\import-maps.js134081462146547725 0
 147C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\core\test\fixtures\duplicate-targets\package.json134081462194452679 0
@@ -6546,7 +6543,6 @@
 129C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\types\lib\constants\index.js.map134081470129544988 0
 104C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\.bin\json5.ps1134081462272034110 0
 129C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\indexeddb.js134081462146604679 0
-118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Light-webfont.fe3992bc.eot134081454107653257 0
 149C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\markdown-ansi\node_modules\ansi-styles\package.json134081462099940018 0
 130C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\indexeddb2.js134081462146604679 0
 132C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\inline-block.js134081462146604679 0
@@ -6664,6 +6660,7 @@
 132C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\rel-noopener.js134081462149126796 0
 127C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\rellist.js134081462149136858 0
 134C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\types\lib\builders\generated\index.js134081470119212691 0
+115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\android-icon-192x192.904a609c.png134082411500618241 0
 141C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\requestanimationframe.js134081462149168442 0
 155C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0\index.js134081462184189415 0
 135C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\resource-timing.js134081462149195616 0
@@ -6733,8 +6730,8 @@
 132C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\packager-js\lib\ESMOutputFormat.js134081462169865408 0
 133C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\web-animation.js134081462151340653 0
 136C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\web-app-manifest.js134081462151354814 0
-135C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\packager-js\lib\GlobalOutputFormat.js134081462169888737 0
 125C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\template\lib\populate.js.map134081470116171218 0
+135C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\packager-js\lib\GlobalOutputFormat.js134081462169888737 0
 133C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\web-bluetooth.js134081462151354814 0
 130C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\web-serial.js134081462151375527 0
 126C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\caniuse-lite\data\features\webgl2.js134081462151498916 0
@@ -6881,6 +6878,7 @@
 113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\types\package.json134081462107185335 0
 110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\types\README.md134081462107596058 0
 151C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\core\test\fixtures\common-targets-ignore\package.json134081462194365781 0
+107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-512x512.d4abc9a9.png134082410156830979 0
 151C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\transformer-webmanifest\lib\WebManifestTransformer.js134081476228878057 0
 143C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@jridgewell\gen-mapping\types\sourcemap-segment.d.cts134081470106167099 0
 106C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\cjs134081462125006429 1
@@ -7091,7 +7089,6 @@
 115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\src\_get.mjs134081462146351964 0
 128C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\src\_get_prototype_of.mjs134081462146331919 0
 110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\profiler\src134081462128574049 1
-117C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Bold-webfont.d36edc14.svg134082383220304013 0
 116C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\node-resolver-core134081462125361186 1
 120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\src\_identity.mjs134081462146351964 0
 120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\src\_inherits.mjs134081462146370796 0
@@ -7186,7 +7183,6 @@
 128C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\esm\_non_iterable_rest.js134081462132360255 0
 137C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\esm\_object_destructuring_empty.js134081462132501928 0
 142C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\esm\_object_without_properties_loose.js134081462132689722 0
-113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-120x120.ccb88329.png134082383217767497 0
 138C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\esm\_possible_constructor_return.js134081462132812425 0
 126C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@swc\helpers\esm\_read_only_error.js134081462132864440 0
 129C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\reporter-cli\src\phaseReport.js134081462185543337 0
@@ -7752,7 +7748,6 @@
 118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\source-map\README.md134081462129375600 0
 151C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\package-manager\node_modules\semver\functions\diff.js134081462108662318 0
 113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\core\lib\public134081462193799061 1
-111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-72x72.5ff366fd.png134082383217767497 0
 123C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@jridgewell\trace-mapping\LICENSE134081470103773205 0
 139C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web134081462139183797 1
 152C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\package.json134081462129339621 0
@@ -7772,6 +7767,7 @@
 134C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\reporter-dev-server\src\HMRServer.js134081462175965032 0
 130C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\source-map\dist\wasm-bindings.js134081462129191589 0
 121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\source-map\dist\wasm.js134081462129211619 0
+108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\Sliding puzzle.f26a78d2.js134082410160416449 0
 125C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\rust-win32-x64-msvc\LICENSE134081462106124234 0
 113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\rust\index.d.ts134081462143611180 0
 106C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\rust\lib134081462143459157 1
@@ -7828,7 +7824,7 @@
 124C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@emotion\memoize\dist\index.min.js134081460680023335 0
 123C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@jridgewell\resolve-uri\README.md134081470108580500 0
 118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\resolver-default\src134081462158625753 1
-101C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\public\images\icons134082383218061854 1
+101C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\public\images\icons134082411500678793 1
 137C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\resolver-default\src\DefaultResolver.js134081462158636085 0
 136C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\superPropSet.js.map134081470134611797 0
 126C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\reporter-tracer\package.json134081462183684187 0
@@ -8047,7 +8043,6 @@
 153C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\node-resolver-core\node_modules\semver\classes\range.js134081462116649126 0
 143C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\awaitAsyncGenerator.js.map134081470125973650 0
 145C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\node-resolver-core\node_modules\.bin\semver.cmd134081462272022883 0
-108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\favicon-32x32.7038d02b.png134081454108444739 0
 140C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\node-resolver-core\lib\builtins.browser.js134081462124720965 0
 129C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\node-resolver-core\lib\index.js134081462124880455 0
 115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\markdown-ansi\lib134081462122384734 1
@@ -8122,6 +8117,7 @@
 125C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\error-overlay\src\styles.js134081462125472277 0
 136C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\error-overlay\src\utils\stack-frame.js134081462124780479 0
 141C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\error-overlay\src\effects\unhandledError.js134081462125579392 0
+113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-152x152.1993f384.png134082410156830979 0
 145C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\error-overlay\src\effects\unhandledRejection.js134081462125649918 0
 142C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\error-overlay\src\containers\RuntimeError.js134081462124482527 0
 140C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@parcel\error-overlay\src\containers\StackFrame.js134081462124843702 0
@@ -8579,6 +8575,8 @@
 115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\template\README.md134081470104223671 0
 123C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\template\lib\formatters.js134081470107994251 0
 120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\template\lib\options.js134081470112063783 0
+121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\template\lib\populate.js134081470115722912 0
+108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\favicon-96x96.294318df.png134082411500618241 0
 119C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\template\lib\string.js134081470116650676 0
 123C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\template\lib\string.js.map134081470117074725 0
 112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\runtime\LICENSE134081460664212049 0
@@ -8639,7 +8637,6 @@
 146C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\runtime\helpers\esm\classPrivateFieldLooseBase.js134081460774501966 0
 150C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\runtime\helpers\esm\classStaticPrivateFieldSpecGet.js134081460774782651 0
 150C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\runtime\helpers\esm\classStaticPrivateFieldSpecSet.js134081460774846252 0
-118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Light-webfont.8c66d0dd.svg134082383224150857 0
 128C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\runtime\helpers\esm\decorate.js134081460775019960 0
 128C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\runtime\helpers\esm\defaults.js134081460775112723 0
 134C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\runtime\helpers\esm\defineProperty.js134081460775569659 0
@@ -8728,7 +8725,6 @@
 147C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\classApplyDescriptorSet.js.map134081470127585502 0
 134C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\classCallCheck.js134081470127709551 0
 138C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\classCallCheck.js.map134081470127794307 0
-121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Regular-webfont.7edfc781.woff134081454107928482 0
 162C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\classCheckPrivateStaticFieldDescriptor.js.map134081470128142086 0
 147C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\classExtractFieldDescriptor.js134081470128221714 0
 141C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\classNameTDZError.js.map134081470129000115 0
@@ -8758,13 +8754,11 @@
 129C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\construct.js134081470131312089 0
 131C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\createClass.js134081470131409828 0
 135C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\createClass.js.map134081470131466641 0
-115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\android-icon-192x192.3fdff4d2.png134082383217767497 0
 145C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\createForOfIteratorHelper.js134081470131490714 0
 154C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\createForOfIteratorHelperLoose.js.map134081470131613365 0
 135C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\createSuper.js.map134081470131737084 0
 132C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\decorate.js.map134081470131894131 0
 128C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\defaults.js134081470131970024 0
-105C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-96x96.5cc72416.png134082383217767497 0
 132C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\defaults.js.map134081470132012628 0
 134C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\defineAccessor.js134081470132031517 0
 146C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helpers\lib\helpers\defineEnumerableProperties.js134081470132092917 0
@@ -8909,6 +8903,7 @@
 141C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helper-define-polyfill-provider\package.json134081470119338881 0
 140C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helper-define-polyfill-provider\lib\browser134081470111426225 1
 147C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helper-define-polyfill-provider\lib\debug-utils.js134081470112204766 0
+107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-152x152.27577cf7.png134082410156830979 0
 151C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helper-define-polyfill-provider\lib\define-provider.js134081470113315929 0
 152C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helper-define-polyfill-provider\lib\imports-injector.js134081470114187913 0
 149C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\@babel\helper-define-polyfill-provider\lib\meta-resolver.js134081470115862194 0
@@ -9077,47 +9072,47 @@
 106C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\.bin\resolve.ps1134081470145117326 0
 103C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\.bin\sass.cmd134081470145139721 0
 105C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\node_modules\.bin\semver.ps1134081470145139721 0
-103C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\15Puzzle.a33cb777.map134081454106667047 0
-103C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\15Puzzle.b3ebf31c.css134081454106727173 0
-115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\android-icon-192x192.cf567ee1.png134081454108013639 0
-113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-114x114.12757dc0.png134081454108053699 0
-113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-114x114.367d589a.png134082383220032081 0
-113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-144x144.13c7492e.png134082383217767497 0
-113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-144x144.9c1d6372.png134081454108133094 0
-113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-152x152.9e50a49a.png134082383217767497 0
-113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-152x152.c259a454.png134081454108173160 0
-111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-57x57.c7df9d0f.png134081454108259922 0
-111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-60x60.1c9552b0.png134081454108305007 0
-111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-72x72.e98825e6.png134081454108331122 0
-111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-76x76.5e010310.png134082383217767497 0
-117C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Bold-webfont.2dc5b74d.eot134082383217767497 0
-118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Bold-webfont.ae49b717.woff134081454107005919 0
-117C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Bold-webfont.be59597a.svg134081454107237764 0
-119C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Light-webfont.443bbd0b.woff134082383220381429 0
-118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Light-webfont.95af1afc.svg134081454107378005 0
-118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Light-webfont.dfc1e5fa.eot134082383217767497 0
-120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Regular-webfont.3abd45a8.svg134081454107790845 0
-120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Regular-webfont.662fe67c.eot134081454107891013 0
-120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Regular-webfont.8ebdeb86.eot134082383220415803 0
-120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Regular-webfont.c1ab15ca.svg134082383224150857 0
-108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\favicon-16x16.48376abf.png134081454108424699 0
-108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\favicon-32x32.81208a83.png134082383217767497 0
-108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\favicon-96x96.78dcea7d.png134082383220032081 0
-108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\favicon-96x96.b441a26b.png134081454108483107 0
-107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-128x128.bdc5b571.png134081454108497665 0
-107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-144x144.ef4c0a9d.png134082383220032081 0
-107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-152x152.3b600af5.png134082383220073447 0
-107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-152x152.bc4c1001.png134081454108565832 0
-107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-192x192.52b953b7.png134081454108598547 0
-107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-384x384.b9e62e98.png134081454108638316 0
-107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-512x512.fb1febfe.png134082383220238326 0
-105C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-72x72.d78dc5a9.png134082383217767497 0
-92C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\index.html134082383213270018 0
-110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ms-icon-144x144.9c1d6372.png134081454108805857 0
-110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ms-icon-144x144.d7cf9715.png134082383220304013 0
-88C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\public134081476322323820 1
-109C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\Sliding puzzle.aa436662.css134082383220775440 0
-113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\Sliding puzzle.aa436662.css.map134082383221254464 0
-112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\Sliding puzzle.e02fbd41.js.map134082383225162857 0
-95C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\public\images134081476322344582 1
-124C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\public\images\icons\apple-icon-180x180.png134082383217767497 0
+115C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\android-icon-192x192.2f5bd0ce.png134082410156830979 0
+113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-114x114.c551122f.png134082410156830979 0
+113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-144x144.3db56e91.png134082410156830979 0
+113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-144x144.4be2a14f.png134082411500618241 0
+111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-57x57.3cb45053.png134082411500608232 0
+111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-57x57.642b8831.png134082410156830979 0
+111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-60x60.9c3d897a.png134082410156830979 0
+111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-72x72.1f04ab9e.png134082411500618241 0
+111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-72x72.4c16d271.png134082410156830979 0
+111C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\apple-icon-76x76.c21cfe46.png134082411500618241 0
+117C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Bold-webfont.2dc5b74d.eot134082411500658796 0
+118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Bold-webfont.5095b002.woff134082410157469889 0
+117C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Bold-webfont.bd449e74.eot134082410158490298 0
+119C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Light-webfont.167759bb.woff134082410156533470 0
+119C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Light-webfont.443bbd0b.woff134082411499986242 0
+118C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Light-webfont.dfc1e5fa.eot134082411499919773 0
+121C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Regular-webfont.46d59d00.woff134082410156533470 0
+120C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ClearSans-Regular-webfont.8ebdeb86.eot134082411500272345 0
+108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\favicon-16x16.5d0e9ce6.png134082410156830979 0
+108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\favicon-16x16.7ca04816.png134082411500618241 0
+108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\favicon-32x32.b554bd34.png134082411500618241 0
+108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\favicon-96x96.6b343795.png134082410156830979 0
+107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-128x128.425a9a57.png134082411500618241 0
+107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-128x128.740e2451.png134082410156830979 0
+107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-144x144.13cdf492.png134082411500628240 0
+107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-152x152.ce846646.png134082411500628240 0
+107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-192x192.54afc3bd.png134082411500628240 0
+107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-384x384.37066f4c.png134082410156830979 0
+107C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-512x512.556992ba.png134082411500631517 0
+105C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\icon-72x72.c4c65a11.png134082411500618241 0
+92C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\index.html134082411501139587 0
+110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ms-icon-144x144.3db56e91.png134082410156830979 0
+110C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\ms-icon-144x144.b58998e0.png134082411500631517 0
+112C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\Pacifico-Regular.f66c8214.woff134082410158490298 0
+88C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\public134082407998648052 1
+108C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\Sliding puzzle.65bd029e.js134082411501088205 0
+109C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\Sliding puzzle.cb08f09c.css134082411500608232 0
+113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\Sliding puzzle.cb08f09c.css.map134082411500925849 0
+109C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\Sliding puzzle.e37dd971.css134082410160416449 0
+113C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\Sliding puzzle.e37dd971.css.map134082410160588158 0
+100C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\waves.ee73ba42.gif134082410156376471 0
+100C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\waves.f04348b3.gif134082411499909773 0
+95C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\public\images134082408037660041 1
+124C:\Users\hp\Desktop\class 12 material\Mental Health Web App 2\Sliding puzzle\dist\public\images\icons\apple-icon-180x180.png134082411500608232 0
