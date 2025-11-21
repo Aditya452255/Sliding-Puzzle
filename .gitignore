@@ -1,10 +1,3 @@
 node_modules/
-dist/
-.cache/
-.parcel-cache/
-**/.DS_Store
-.env
 
-# OS files
-Thumbs.db
-Desktop.ini
+
